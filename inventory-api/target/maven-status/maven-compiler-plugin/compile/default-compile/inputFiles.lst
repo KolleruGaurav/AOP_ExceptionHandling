@@ -1,0 +1,9 @@
+D:\workspace\AOP example\inventory-api\inventory-api\src\main\java\com\upgrad\course\demo\entity\ProductEntity.java
+D:\workspace\AOP example\inventory-api\inventory-api\src\main\java\com\upgrad\course\demo\controller\InventoryController.java
+D:\workspace\AOP example\inventory-api\inventory-api\src\main\java\com\upgrad\course\demo\service\InventoryService.java
+D:\workspace\AOP example\inventory-api\inventory-api\src\main\java\com\upgrad\course\demo\mapper\ProductMapper.java
+D:\workspace\AOP example\inventory-api\inventory-api\src\main\java\com\upgrad\course\demo\dto\ProductDTO.java
+D:\workspace\AOP example\inventory-api\inventory-api\src\main\java\com\upgrad\course\demo\repository\ProductRepo.java
+D:\workspace\AOP example\inventory-api\inventory-api\src\main\java\com\upgrad\course\demo\exception\RecordNotFoundException.java
+D:\workspace\AOP example\inventory-api\inventory-api\src\main\java\com\upgrad\course\demo\InventoryApiMain.java
+D:\workspace\AOP example\inventory-api\inventory-api\src\main\java\com\upgrad\course\demo\service\InventoryServiceImpl.java

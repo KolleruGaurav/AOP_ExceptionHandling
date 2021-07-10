@@ -1,0 +1,9 @@
+com\upgrad\course\demo\repository\ProductRepo.class
+com\upgrad\course\demo\InventoryApiMain.class
+com\upgrad\course\demo\service\InventoryService.class
+com\upgrad\course\demo\dto\ProductDTO.class
+com\upgrad\course\demo\controller\InventoryController.class
+com\upgrad\course\demo\exception\RecordNotFoundException.class
+com\upgrad\course\demo\service\InventoryServiceImpl.class
+com\upgrad\course\demo\entity\ProductEntity.class
+com\upgrad\course\demo\mapper\ProductMapper.class
